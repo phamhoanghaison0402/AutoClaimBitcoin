@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinClicker", "BitcoinClicker\BitcoinClicker.csproj", "{5FA905FB-D8FC-49F3-BC38-FD482FFCEB12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thunderclix.com", "Thunderclix.com\Thunderclix.com.csproj", "{FE277218-0232-4173-97CD-0DDC94B54B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimDogeCoin", "ClaimDogeCoin\ClaimDogeCoin.csproj", "{8258B886-A768-48CD-8782-61B5FF9F4A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA905FB-D8FC-49F3-BC38-FD482FFCEB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA905FB-D8FC-49F3-BC38-FD482FFCEB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA905FB-D8FC-49F3-BC38-FD482FFCEB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA905FB-D8FC-49F3-BC38-FD482FFCEB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE277218-0232-4173-97CD-0DDC94B54B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE277218-0232-4173-97CD-0DDC94B54B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE277218-0232-4173-97CD-0DDC94B54B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE277218-0232-4173-97CD-0DDC94B54B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8258B886-A768-48CD-8782-61B5FF9F4A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8258B886-A768-48CD-8782-61B5FF9F4A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8258B886-A768-48CD-8782-61B5FF9F4A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8258B886-A768-48CD-8782-61B5FF9F4A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
